@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ESprite name="Player" spriteAtlas="player_atlas.xml">
+    <State name="toward" animationPrefix="toward_" animationFPS="6" loop="false" />
+    <State name="away" animationPrefix="away_" animationFPS="6" loop="false" />
+</ESprite>
