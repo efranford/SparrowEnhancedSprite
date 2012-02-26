@@ -2,8 +2,8 @@
 //  ESpriteManager.m
 //  AppScaffold
 //
-//  Created by Elliot Franford on 2/25/12.
-//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+//  Created by Elliot Franford on 1/16/12.
+//  Copyright (c) 2012 Abandon Hope Games, LLC. All rights reserved.
 //
 
 #import "ESpriteManager.h"

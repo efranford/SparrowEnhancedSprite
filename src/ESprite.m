@@ -130,20 +130,6 @@ NSString* currentElementName;
     return currentAnimation;
 }
 
-// the corresponding event listener
-- (void)onEnterFrame:(SPEnterFrameEvent *)event
-{
-    if(currentAnimation.isPlaying)
-    {
-        //NSLog(@"Animation playing...");
-        //[currentAnimation play];
-    }
-    //else
-    //NSLog(@"updating..buit not animating");
-    //NSLog(@"Time passed since last frame: %f", event.passedTime);
-    //[enemy moveBy:event.passedTime * enemy.velocity];
-}
-
 -(void)onMoveSprite:(SPEvent*)evt:(float)speed:(float)angle{
   /*
            0
